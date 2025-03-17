@@ -3,4 +3,4 @@ HTML/CSSの実技演習で制作した架空のリフォーム会社のホーム
 # Link
 下記のリンクからサイトを見ることができます。
 
-http://127.0.0.1:3000/Design%20House%20Renovations/index.html
+http://ss931730.stars.ne.jp/portfolio/Design%20House%20Renovations/index.html
